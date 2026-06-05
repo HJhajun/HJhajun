@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://hit.yhype.me/github/profile?account_id=146607818)
 <!--
 **HJhajun/HJhajun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
