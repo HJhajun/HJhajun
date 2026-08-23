@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 👋
 
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50px" align="right">
 
