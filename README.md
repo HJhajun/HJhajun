@@ -3,3 +3,5 @@
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50px" align="right">
 
 중학교 1학년 개발자 **김하준**입니다.
+
+Gravata 프로필: [gravatar.com/bokdoli](gravatar.com/bokdoli)
