@@ -6,4 +6,4 @@
 
 Gravata 프로필: https://gravatar.com/bokdoli
 
-<img src="neofetch.png">
+<img src="fastfetch.png">
